@@ -1,0 +1,64 @@
+/*css properties*/
+.h1{
+    text-align: center;
+    font-size: 30pt;
+    color: yellow;
+    font-family: Georgia;
+    background-color: royalblue;
+}
+.tagline{
+    text-align: center;
+    font-size: 22pt;
+    font-family: Georgia;
+    color: red;
+    font-weight: bold;
+}
+.description{
+    text-align: center;
+    font-size: 15pt;
+    font-family:cursive;
+    color: whitesmoke;
+    font-weight: bold;
+    
+}
+.marvel{
+    padding: 5px;
+    background: no-repeat;
+}
+.invite{
+    text-align: center;
+    color: whitesmoke;
+    font-family: cursive;
+    font-size: 15pt;
+}
+.main{
+    background-image: url("milestone project/marvel\ background 2.jpg");
+    height:100%; 
+    width:100% ;
+    background-position: top;
+}
+.container{
+    text-align: center;
+}
+.reg{
+    color: floralwhite;
+    text-align: center;
+    font-family: Geneva;
+    font-size: 15pt;
+}
+.max-size{
+    max-block-size: 5;
+}
+.icons{
+    color: floralwhite;
+    text-align: center;
+    justify-content: space-evenly;
+    font-family:'Times New Roman';
+    font-size: 15pt;
+}
+.top{
+    background-color: blue;
+}
+.foot{
+    color: floralwhite;
+}
