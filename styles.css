@@ -61,4 +61,8 @@
 }
 .foot{
     color: floralwhite;
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
 }
