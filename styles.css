@@ -16,7 +16,7 @@
 .description{
     text-align: center;
     font-size: 12pt;
-    font-family:Times New Roman;
+    font-family:'Times New Roman';
     color: whitesmoke;
     font-weight: bold;
     
@@ -28,7 +28,7 @@
 .invite{
     text-align: center;
     color: whitesmoke;
-    font-family: Times New Roman;
+    font-family: 'Times New Roman';
     font-size: 12pt;
 }
 .main{
@@ -45,9 +45,6 @@
     text-align: center;
     font-family: Geneva;
     font-size: 15pt;
-}
-.max-size{
-    max-block-size: 5;
 }
 .icons{
     color: floralwhite;
